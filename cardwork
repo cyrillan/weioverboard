@@ -1,0 +1,244 @@
+1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+
+# index into title,author string
+CE5.1,  U.B Beowulf by Seamus Heaney
+HN3.8,  E.S Breakfast at Tiffany's by Truman Capote
+GN19.5, E.D Children Books: The Green Twins by Yael Manor
+PR20.8, E.N Children Books: The Green Twins by Yael Manor
+GG1.19, T.I The Color Purple by Alice Walker
+CR5.9,  O.P The Color Purple by Alice Walker
+TA7.8,  E.D The Comedy of Errors by William Shakespeare
+UA20.22, Cosmos by Carl Sagan
+DD15.12, Dancing with Cats by Burton Silver
+ME21.13, The Fault in Our Stars by John Green
+BN5.19, For Whom the Bell Tolls by Ernest Hemingway
+PM6.9, Frankenstein, or, The Modern Prometheus by Mary Shelley
+MA24.9, The Girl With The Dragon Tattoo by Stieg Larsson
+CU14.3, The Golden Compass by Philip Pullman
+SE15.18, Goodnight Moon by Margaret Wise Brown
+DY18.5, Hard to Get: Twenty-Something Women and the Paradox of Sexual Freedom by Leslie Bell
+DC3.20, Have You Seen My Dragon? by Steve Light
+CO2.9, The History of the Decline & Fall of the Roman Empire by Edward Gibbon
+CB7.18, Lonesome Dove by Larry McMurtry
+MC1.13, Lord of the Flies by William Golding
+EO19.20, The Love Song of J. Alfred Prufrock by T. S. Eliot
+SI1.18, Our Man Flint by Jack Pearl
+BB19.1, Our Town by Thornton Wilder
+KY3.20, Pride and Prejudice by Jane Austen
+AA18.5, A Ram in the Thicket by Frank C. Robertson
+EU19.19, A River Runs Through It by Norman Maclean
+EE5.12, Song of Solomon by Toni Morrison
+XE5.13, Stranger in a Strange Land by Robert Heinlein
+CC5.14, The Sun Also Rises by Ernest Hemingway
+FA20.19, They Shoot Horses, Don't They? by Horace McCoy
+ST13.21, Time's Arrow by Martin Amis
+LE19.5, Winter's Bone by Daniel Woodrell
+
+
+
+# order by second number, first number
+CE5.1,   Beowulf
+BB19.1,  Our Town
+CU14.3,  Golden Compass, The
+AA18.5,  Ram in the Thicket, A
+DY18.5,  Hard to Get: Twenty-Something Women and the Paradox of Sexual Freedom
+GN19.5,  Children Books: The Green Twins
+LE19.5,  Winter's Bone
+HN3.8,   Breakfast at Tiffany's
+TA7.8,   Comedy of Errors, The
+PR20.8,  Children Books: The Green Twins
+CO2.9,   History of the Decline & Fall of the Roman Empire, The
+CR5.9,   Color Purple, The
+PM6.9,   Frankenstein, or, The Modern Prometheus
+MA24.9,  Girl With The Dragon Tattoo, The
+EE5.12,  Song of Solomon
+DD15.12, Dancing with Cats
+MC1.13,  Lord of the Flies
+XE5.13,  Stranger in a Strange Land
+ME21.13, Fault in Our Stars, The
+CC5.14,  Sun Also Rises, The
+SI1.18,  Our Man Flint
+CB7.18,  Lonesome Dove
+SE15.18, Goodnight Moon
+GG1.19,  Color Purple, The
+BN5.19,  For Whom the Bell Tolls
+EU19.19, River Runs Through It, A
+FA20.19, They Shoot Horses, Don't They?
+DC3.20,  Have You Seen My Dragon?
+KY3.20,  Pride and Prejudice
+EO19.20, Love Song of J. Alfred Prufrock, The
+ST13.21, Time's Arrow
+UA20.22, Cosmos
+
+# order by first number, second number
+MC1.13,  Lord of the Flies
+SI1.18,  Our Man Flint
+GG1.19,  Color Purple, The
+CO2.9,   History of the Decline & Fall of the Roman Empire, The
+HN3.8,   Breakfast at Tiffany's
+DC3.20,  Have You Seen My Dragon?
+KY3.20,  Pride and Prejudice
+CE5.1,   Beowulf
+CR5.9,   Color Purple, The
+EE5.12,  Song of Solomon
+XE5.13,  Stranger in a Strange Land
+CC5.14,  Sun Also Rises, The
+BN5.19,  For Whom the Bell Tolls
+PM6.9,   Frankenstein, or, The Modern Prometheus
+TA7.8,   Comedy of Errors, The
+CB7.18,  Lonesome Dove
+ST13.21, Time's Arrow
+CU14.3,  Golden Compass, The
+DD15.12, Dancing with Cats
+SE15.18, Goodnight Moon
+AA18.5,  Ram in the Thicket, A
+DY18.5,  Hard to Get: Twenty-Something Women and the Paradox of Sexual Freedom
+BB19.1,  Our Town
+GN19.5,  Children Books: The Green Twins
+LE19.5,  Winter's Bone
+EU19.19, River Runs Through It, A
+EO19.20, Love Song of J. Alfred Prufrock, The
+PR20.8,  Children Books: The Green Twins
+FA20.19, They Shoot Horses, Don't They?
+UA20.22, Cosmos
+ME21.13, Fault in Our Stars, The
+MA24.9,  Girl With The Dragon Tattoo, The
+
+# order by second character, first character
+AA18.5,  Ram in the Thicket, A
+FA20.19, They Shoot Horses, Don't They?
+MA24.9,  Girl With The Dragon Tattoo, The
+TA7.8,   Comedy of Errors, The
+UA20.22, Cosmos
+BB19.1,  Our Town
+CB7.18,  Lonesome Dove
+CC5.14,  Sun Also Rises, The
+DC3.20,  Have You Seen My Dragon?
+MC1.13,  Lord of the Flies
+DD15.12, Dancing with Cats
+CE5.1,   Beowulf
+EE5.12,  Song of Solomon
+LE19.5,  Winter's Bone
+ME21.13, Fault in Our Stars, The
+SE15.18, Goodnight Moon
+XE5.13,  Stranger in a Strange Land
+GG1.19,  Color Purple, The
+SI1.18,  Our Man Flint
+PM6.9,   Frankenstein, or, The Modern Prometheus
+BN5.19,  For Whom the Bell Tolls
+GN19.5,  Children Books: The Green Twins
+HN3.8,   Breakfast at Tiffany's
+CO2.9,   History of the Decline & Fall of the Roman Empire, The
+EO19.20, Love Song of J. Alfred Prufrock, The
+CR5.9,   Color Purple, The
+PR20.8,  Children Books: The Green Twins
+CU14.3,  Golden Compass, The
+EU19.19, River Runs Through It, A
+ST13.21, Time's Arrow
+DY18.5,  Hard to Get: Twenty-Something Women and the Paradox of Sexual Freedom
+KY3.20,  Pride and Prejudice
+
+# order by first character, second character
+AA18.5,  Ram in the Thicket, A
+BB19.1,  Our Town
+BN5.19,  For Whom the Bell Tolls
+CB7.18,  Lonesome Dove
+CC5.14,  Sun Also Rises, The
+CE5.1,   Beowulf
+CO2.9,   History of the Decline & Fall of the Roman Empire, The
+CR5.9,   Color Purple, The
+CU14.3,  Golden Compass, The
+DC3.20,  Have You Seen My Dragon?
+DD15.12, Dancing with Cats
+DY18.5,  Hard to Get: Twenty-Something Women and the Paradox of Sexual Freedom
+EE5.12,  Song of Solomon
+EO19.20, Love Song of J. Alfred Prufrock, The
+EU19.19, River Runs Through It, A
+FA20.19, They Shoot Horses, Don't They?
+GG1.19,  Color Purple, The
+GN19.5,  Children Books: The Green Twins
+HN3.8,   Breakfast at Tiffany's
+KY3.20,  Pride and Prejudice
+LE19.5,  Winter's Bone
+MA24.9,  Girl With The Dragon Tattoo, The
+MC1.13,  Lord of the Flies
+ME21.13, Fault in Our Stars, The
+PM6.9,   Frankenstein, or, The Modern Prometheus
+PR20.8,  Children Books: The Green Twins
+SE15.18, Goodnight Moon
+SI1.18,  Our Man Flint
+ST13.21, Time's Arrow
+TA7.8,   Comedy of Errors, The
+UA20.22, Cosmos
+XE5.13,  Stranger in a Strange Land
+
+
+
+# author is removed, per the hint
+CE5.1, Beowulf
+HN3.8, Breakfast at Tiffany's
+GN19.5, Children Books: The Green Twins
+PR20.8, Children Books: The Green Twins
+GG1.19, The Color Purple
+CR5.9, The Color Purple
+TA7.8, The Comedy of Errors
+UA20.22, Cosmos
+DD15.12, Dancing with Cats
+ME21.13, The Fault in Our Stars
+BN5.19, For Whom the Bell Tolls
+PM6.9, Frankenstein, or, The Modern Prometheus
+MA24.9, The Girl With The Dragon Tattoo
+CU14.3, The Golden Compass
+SE15.18, Goodnight Moon
+DY18.5, Hard to Get: Twenty-Something Women and the Paradox of Sexual Freedom
+DC3.20, Have You Seen My Dragon?
+CO2.9, The History of the Decline & Fall of the Roman Empire
+CB7.18, Lonesome Dove
+MC1.13, Lord of the Flies
+EO19.20, The Love Song of J. Alfred Prufrock
+SI1.18, Our Man Flint
+BB19.1, Our Town
+KY3.20, Pride and Prejudice
+AA18.5, A Ram in the Thicket
+EU19.19, A River Runs Through It
+EE5.12, Song of Solomon
+XE5.13, Stranger in a Strange Land
+CC5.14, The Sun Also Rises
+FA20.19, They Shoot Horses, Don't They?
+ST13.21, Time's Arrow
+LE19.5, Winter's Bone
+
+# original text
+CE5.1, Beowulf by Seamus Heaney
+HN3.8, Breakfast at Tiffany's by Truman Capote
+GN19.5, Children Books: The Green Twins by Yael Manor
+PR20.8, Children Books: The Green Twins by Yael Manor
+GG1.19, The Color Purple by Alice Walker
+CR5.9, The Color Purple by Alice Walker
+TA7.8, The Comedy of Errors by William Shakespeare
+UA20.22, Cosmos by Carl Sagan
+DD15.12, Dancing with Cats by Burton Silver
+ME21.13, The Fault in Our Stars by John Green
+BN5.19, For Whom the Bell Tolls by Ernest Hemingway
+PM6.9, Frankenstein, or, The Modern Prometheus by Mary Shelley
+MA24.9, The Girl With The Dragon Tattoo by Stieg Larsson
+CU14.3, The Golden Compass by Philip Pullman
+SE15.18, Goodnight Moon by Margaret Wise Brown
+DY18.5, Hard to Get: Twenty-Something Women and the Paradox of Sexual Freedom by Leslie Bell
+DC3.20, Have You Seen My Dragon? by Steve Light
+CO2.9, The History of the Decline & Fall of the Roman Empire by Edward Gibbon
+CB7.18, Lonesome Dove by Larry McMurtry
+MC1.13, Lord of the Flies by William Golding
+EO19.20, The Love Song of J. Alfred Prufrock by T. S. Eliot
+SI1.18, Our Man Flint by Jack Pearl
+BB19.1, Our Town by Thornton Wilder
+KY3.20, Pride and Prejudice by Jane Austen
+AA18.5, A Ram in the Thicket by Frank C. Robertson
+EU19.19, A River Runs Through It by Norman Maclean
+EE5.12, Song of Solomon by Toni Morrison
+XE5.13, Stranger in a Strange Land by Robert Heinlein
+CC5.14, The Sun Also Rises by Ernest Hemingway
+FA20.19, They Shoot Horses, Don't They? by Horace McCoy
+ST13.21, Time's Arrow by Martin Amis
+LE19.5, Winter's Bone by Daniel Woodrell
