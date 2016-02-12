@@ -1,0 +1,177 @@
+copper (steel, tin)
+reactor (atom, torque, energy)
+yardops (mower, employee)
+psychophasia (neutral, translator, translatee)
+trademark (yours)
+oddsonfavorite (probability, evens, stake, ante)
+govwriter (regulation, endorsement, legislator)
+reptile (elevation, temperature)
+appearance (tint, enlargement)
+milk (rennet, skim)
+
+CRYPTOGRAM
+STATEMENT TYPES ARE LETTERS
+
+types of statements (and arbitrary initial letters assigned):
+
+u function decl (no open brace)
+v function def (with open brace)
+h end brace
+a add
+x assign constant
+y assign expression
+z assign strlen
+b //comment
+c concatenate
+k connect
+l create array
+d declare
+e echo
+m end
+n explode
+f foreach
+g goto
+i include
+j increment
+o operator>>>
+p print
+q push
+r read
+s return
+t throw
+w while
+
+not sure if different types of assignments are treated as different types
+not sure if function decl/def need to be treated as statements
+not sure if end brace needs to be treated as a statement
+although if all 3 previous questions are yes, we do get 26 different types which is nice
+
+ciphertext is below:
+nxepiyzxeajxceraxezdravdjjyliwthurxwpzcjfxmhuzxeoedmhvqtbaeodwshvwxkxhvbdjrdwhvbxnaejrefbohvbtoqxmhvgfjcdwidjfrhvnqfoajbdrah
+
+--------------------------------------------------------
+
+n explode letters[];
+x letters = 12;
+e echo letters;
+p print "Let's run some code" ;
+i include "samplecode.php";
+y ignorable = numbers + letters;
+z ignorable = strlen("Sample");
+x letters = 12;
+e echo ignorable;
+a ignorable = ignorable + numbers;
+j letters++;
+x letters = 12;
+c concatenate(letters[]);
+e echo ignorable;
+r read "sampletext.txt";
+a ignorable = ignorable + letters;
+x numbers = 19;
+e echo numbers;
+z numbers = strlen("ignore")
+d declare num2;
+r read "moretext.txt";
+a num2 = num2 + ignorable;
+v function Copper (steel, tin) {
+d declare alloy;
+j steel++;
+j tin++;
+y alloy = steel + tin;
+l create array alloy[5];
+i include "smelter.php";
+w while alloy;
+t throw error "502 Rust";
+h }
+u function Reactor (atom, torque, energy);
+r read "ChinaMeltdown.txt";
+x atom = 92;
+w while torque;
+p print "RadioactiveMan";
+z torque = strlen("Boom!");
+c concatenate(torque[]);
+j atom++;
+f foreach atom;
+x atom = 92;
+m end;
+h }
+u function YardOps (mower, employee);
+z mower = strlen("X");
+x employee = 500;
+e echo employee;
+o mower >>> "blades.txt";
+e echo employee;
+d declare paperboy;
+m end;
+h }
+v function Psychophasia (neutral, translator, translatee) {
+q push neutral;
+t throw error "403 Bad Word";
+b //This block handles input;
+a translator = translator + translatee;
+e echo neutral;
+o translator >>> "Babel.txt";
+d declare babel;
+w while babel;
+s return;
+h }
+v function Trademark (yours) {
+w while yours;
+x yours = 1;
+k connect "your.database";
+x yours = 1;
+h }
+v function OddsOnFavorite (probability, evens, stake, ante) {
+b //Let's get rich!;
+d declare targetAmount;
+j ante++;
+r read "otc.txt";
+d declare poverty;
+w while poverty;
+h }
+v function GovWriter (regulation, endorsement, legislator) {
+b // Red tape!;
+x endorsement = 0;
+n explode legislator[];
+a endorsement = endorsement + x;
+e echo endorsement;
+j x++;
+r read "reg.txt";
+e echo regulation;
+f foreach regulation;
+b // this wont work;
+o regulation >>> "reg.txt";
+h }
+v function Reptile (elevation, temperature) {
+b // cold, man, cold;
+t throw error "602 Poison";
+o elevation >>> "fauna.txt";
+q push temperature;
+x temperature = 98;
+m end;
+h }
+v function Appearance (tint, enlargement) {
+g goto function Milk;
+f foreach tint;
+j enlargment++;
+c concatenate(enlargement[]);
+d declare blur;
+w while blur;
+i include "gauss.php";
+d declare focus;
+j blur++;
+f foreach blur;
+r read "gif.txt";
+h }
+v function Milk (rennet, skim) {
+n explode rennet[];
+q push skim;
+f foreach rennet;
+o skim >>> "dairydiary.txt";
+a skim = skim + fat;
+j fat++;
+b // Moo!!!!;
+d declare lactose;
+r read "intolerance.txt";
+a lactose = lactose + fat;
+h }
